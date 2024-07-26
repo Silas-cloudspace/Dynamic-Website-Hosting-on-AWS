@@ -26,7 +26,7 @@ The website is hosted on EC2 instances within a Virtual Private Cloud (VPC) conf
 
 The deployment of this infrastructure is automated using scripts and configuration files stored in a GitHub repository. The repository includes the following:
 
-•	Reference Diagram: A visual representation of the AWS infrastructure and its components.
+•	Reference Diagram: A visual representation of the AWS infrastructure and its components.                                                                                                                           
 •	Deployment Scripts: Scripts to provision and configure the necessary AWS resources.
 •	Configuration Files: Templates and configuration files for setting up the infrastructure.
 
