@@ -1,8 +1,8 @@
-<# Dynamic Website Hosting on AWS>
+# Dynamic Website Hosting on AWS
 
 This project demonstrates the deployment and hosting of a dynamic website on AWS, utilizing various services and components to ensure high availability, scalability, security, and fault tolerance.
 
-##Architecture Overview
+## Architecture Overview
 
 The website is hosted on EC2 instances within a Virtual Private Cloud (VPC) configured with public and private subnets spanning two Availability Zones. The infrastructure leverages the following AWS resources:
 
@@ -22,7 +22,7 @@ The website is hosted on EC2 instances within a Virtual Private Cloud (VPC) conf
 •	S3 Bucket: Stores the application code and assets.
 •	Amazon RDS: Provides a scalable, high-availability database service for storing dynamic content and application data.
 
-##Deployment
+## Deployment
 
 The deployment of this infrastructure is automated using scripts and configuration files stored in a GitHub repository. The repository includes the following:
 
@@ -30,7 +30,7 @@ The deployment of this infrastructure is automated using scripts and configurati
 •	Deployment Scripts: Scripts to provision and configure the necessary AWS resources.
 •	Configuration Files: Templates and configuration files for setting up the infrastructure.
 
-##Usage
+## Usage
 
 •	Clone the GitHub repository to your local machine.
 •	Follow the instructions in the repository's documentation to set up the required AWS resources.
