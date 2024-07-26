@@ -6,8 +6,8 @@ This project demonstrates the deployment and hosting of a dynamic website on AWS
 
 The website is hosted on EC2 instances within a Virtual Private Cloud (VPC) configured with public and private subnets spanning two Availability Zones. The infrastructure leverages the following AWS resources:
 
-•	Virtual Private Cloud (VPC): A logically isolated section of the AWS cloud where AWS resources are launched.
-•	Internet Gateway: Enables communication between the VPC instances and the internet.
+•	Virtual Private Cloud (VPC): A logically isolated section of the AWS cloud where AWS resources are launched.                                                                                                        
+•	Internet Gateway: Enables communication between the VPC instances and the internet.                                                                                                                                 
 •	Security Groups: Act as virtual firewalls to control inbound and outbound traffic.
 •	Availability Zones: Multiple Availability Zones are used to increase reliability and fault tolerance.
 •	Public Subnets: Host infrastructure components like the NAT Gateway and Application Load Balancer.
